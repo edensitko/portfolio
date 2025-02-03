@@ -120,7 +120,7 @@ const Resume = () => {
                 <p className="cursus university"> Freelance / Mar 2022 - Oct 2023</p>
                 <p className="cursus">
                 Developed and maintained websites for clients in various industries, used 
-                HTML, CSS, JavaScript, and WordPress to build custom sites and implement design changes .
+                HTML, CSS, JavaScript, and WordPress to build custom sites and implement design changes for little buisness owners.
                 </p>
               </div>
             </div>
@@ -132,7 +132,7 @@ const Resume = () => {
               </div>
               <div className="small_yellow_border_main">
                 <p className="bachelor"> website developer</p>
-                <p className="cursus university">morevision / Mar 2024 -  Now</p>
+                <p className="cursus university">morevision / Mar 2024 - Dec 2024</p>
                 <p className="cursus">
                   build and maintain websites for company clients using WordPress,
                   HTML, CSS, PHP and JavaScript. Collaborate with the developing team to create
@@ -151,8 +151,8 @@ const Resume = () => {
                 <p className="cursus university">freelance / Apr 2024 - Now</p>
                 <p className="cursus">
                As a developer i learned mobile development techs such as Flutter , dart tools like Xcode and more ...
-               and have been working on a project for a client in the field of sports and fitness.
-               the app is launched and available on the app store and google play (meety).
+               and working on a project for a client in the field of sports and fitness.
+               the app is launched and available on the app store and google play (MOTIV).
                 </p>
               </div>
             </div>
@@ -266,7 +266,7 @@ const Resume = () => {
           <div className="design-skills-img-main git flip_up">
             <img src={gitImage} alt="html-img" />
             <div className="skill-counter-main">
-              <p>Git/Github</p>
+              <p>Git</p>
             </div>
             
           </div>

@@ -164,7 +164,7 @@ const Contact = () => {
         <div className="footer">
           © 2024 | All rights reserved by
           <span>
-            <a href="https://1.envato.market/website-portfolio">Eden sitkovetsky</a>
+            <a href="">Eden sitkovetsky</a>
           </span>
         </div>
       </section>

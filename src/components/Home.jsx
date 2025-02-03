@@ -42,9 +42,10 @@ import { Typewriter } from 'react-simple-typewriter';
 const Home = () => {
   //Text
   const secondTexts = [
-    "Freelancer",
-    "Back-End Web Developer",
     "Full Stack Developer",
+    "Front-End Web Developer",
+    "Application Developer",
+    
   ];
   const intervalTime = 600;
 

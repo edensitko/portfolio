@@ -27,6 +27,13 @@ const Portfolio = () => {
 
   const projects = [
     {
+      title: "Motiv - fitness app for Schools",
+      description: "flutter app live in the app store, for schools to manage their students and teachers, and to manage the fitness classes.",
+      image: ProjectImg6,
+      link: "https://edensitko.github.io/footballmemory/",
+      codeLink: "https://github.com/edensitko/footballmemory",
+    },
+    {
       title: "Self shef - recipe app",
       description: "Cooking recipes app is a React-based web project where users can view recipes, add, search, and delete recipes.",
       image: ProjectImg1,
@@ -61,13 +68,7 @@ const Portfolio = () => {
       link: "https://edensitko.github.io/footballmemory/",
       codeLink: "https://github.com/edensitko/footballmemory",
     },
-    {
-      title: "Motiv - fitness app for Schools",
-      description: "flutter app live in the app store, for schools to manage their students and teachers, and to manage the fitness classes.",
-      image: ProjectImg6,
-      link: "https://edensitko.github.io/footballmemory/",
-      codeLink: "https://github.com/edensitko/footballmemory",
-    },
+    
   ];
 
   return (
